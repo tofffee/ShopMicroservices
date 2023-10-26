@@ -18,6 +18,7 @@
         <module>productservice</module>
         <module>orderservice</module>
         <module>inventoryservice</module>
+        <module>discoveryserver</module>
     </modules>
     <properties>
         <java.version>17</java.version>
